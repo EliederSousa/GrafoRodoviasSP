@@ -1,7 +1,7 @@
 """
 Projeto da disciplina de Teoria dos Grafos
 
-José Eduardo Bernardino Jorge   42019877   <-- :)
+José Eduardo Bernardino Jorge   42019877
 Elieder Damasceno Sousa         32093659
 
 """
