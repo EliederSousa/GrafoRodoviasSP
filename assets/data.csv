@@ -1,0 +1,646 @@
+Nome;Latitude;Longitude;Populacao
+São Paulo;-23.54;-46.63;12396372
+Guarulhos;-23.46;-46.53;1404694
+Campinas;-22.9;-47.06;1223237
+São Bernardo do Campo;-23.69;-46.56;849874
+São José dos Campos;-23.17;-45.88;737310
+Santo André;-23.66;-46.53;723889
+Ribeirão Preto;-21.17;-47.81;720116
+Osasco;-23.53;-46.79;701428
+Sorocaba;-23.5;-47.45;695328
+Mauá;-23.66;-46.46;481725
+São José do Rio Preto;-20.81;-49.37;469173
+Mogi das Cruzes;-23.52;-46.18;455587
+Santos;-23.96;-46.33;433991
+Diadema;-23.68;-46.62;429550
+Jundiaí;-23.18;-46.88;426935
+Piracicaba;-22.72;-47.64;410275
+Carapicuíba;-23.52;-46.83;405375
+Bauru;-22.31;-49.06;381706
+Itaquaquecetuba;-23.48;-46.34;379082
+São Vicente;-23.96;-46.39;370839
+Franca;-20.53;-47.4;358539
+Praia Grande;-24;-46.4;336454
+Guarujá;-23.99;-46.25;324977
+Taubaté;-23.02;-45.55;320820
+Limeira;-22.56;-47.4;310783
+Suzano;-23.54;-46.31;303397
+Taboão da Serra;-23.6;-46.75;297528
+Sumaré;-22.82;-47.26;289875
+Barueri;-23.51;-46.87;279704
+Embu das Artes;-23.64;-46.85;279264
+Indaiatuba;-23.09;-47.21;260690
+Cotia;-23.6;-46.91;257882
+São Carlos;-22.01;-47.89;256915
+Americana;-22.73;-47.33;244370
+Itapevi;-23.54;-46.93;244131
+Marília;-22.21;-49.94;242249
+Araraquara;-21.79;-48.17;240542
+Hortolândia;-22.85;-47.22;237570
+Jacareí;-23.3;-45.96;237119
+Presidente Prudente;-22.12;-51.38;231953
+Rio Claro;-22.41;-47.56;209548
+Araçatuba;-21.2;-50.43;199210
+Ferraz de Vasconcelos;-23.54;-46.36;198661
+Santa Bárbara d`Oeste;-22.75;-47.41;195278
+Itapecerica da Serra;-23.71;-46.84;179574
+Francisco Morato;-23.28;-46.74;179372
+Itu;-23.26;-47.29;177150
+Bragança Paulista;-22.95;-46.54;172346
+Pindamonhangaba;-22.92;-45.46;171885
+Itapetininga;-23.59;-48.05;167106
+São Caetano do Sul;-23.62;-46.55;162763
+Franco da Rocha;-23.32;-46.72;158438
+Mogi Guaçu;-22.37;-46.94;154146
+Jaú;-22.29;-48.55;153463
+Botucatu;-22.88;-48.44;149718
+Atibaia;-23.11;-46.54;145378
+Santana de Parnaíba;-23.44;-46.91;145073
+Araras;-22.35;-47.38;136739
+Valinhos;-22.97;-46.99;133169
+Cubatão;-23.89;-46.42;132521
+Sertãozinho;-21.13;-47.99;128432
+Jandira;-23.52;-46.9;127734
+Birigui;-21.28;-50.34;126094
+Ribeirão Pires;-23.71;-46.41;125238
+Caraguatatuba;-23.62;-45.41;125194
+Votorantim;-23.54;-47.43;124468
+Várzea Paulista;-23.21;-46.82;124269
+Itatiba;-23;-46.83;124254
+Tatuí;-23.35;-47.85;124134
+Barretos;-20.55;-48.56;123546
+Guaratinguetá;-22.81;-45.19;123192
+Catanduva;-21.13;-48.97;123114
+Salto;-23.2;-47.28;120779
+Poá;-23.52;-46.34;119221
+Ourinhos;-22.97;-49.87;115139
+Paulínia;-22.76;-47.15;114508
+Assis;-22.66;-50.41;105768
+Leme;-22.18;-47.38;105273
+Itanhaém;-24.18;-46.78;104351
+Caieiras;-23.36;-46.74;104044
+Mairiporã;-23.31;-46.58;103645
+Votuporanga;-20.42;-49.97;96106
+Caçapava;-23.1;-45.7;95752
+Itapeva;-23.98;-48.87;95241
+Moji Mirim;-22.43;-46.95;94098
+São Roque;-23.52;-47.13;93076
+Ubatuba;-23.43;-45.07;92819
+Arujá;-23.39;-46.32;92453
+São João da Boa Vista;-21.96;-46.79;92315
+Avaré;-23.09;-48.92;91792
+São Sebastião;-23.76;-45.4;91637
+Lorena;-22.73;-45.12;89532
+Campo Limpo Paulista;-23.2;-46.78;86407
+Matão;-21.6;-48.36;84069
+Cruzeiro;-22.57;-44.96;82895
+Vinhedo;-23.03;-46.97;81516
+Ibiúna;-23.65;-47.22;80062
+Cajamar;-23.35;-46.87;79034
+Lins;-21.67;-49.74;78978
+Jaboticabal;-21.25;-48.32;78029
+Bebedouro;-20.94;-48.47;77612
+Pirassununga;-21.99;-47.42;77330
+Itapira;-22.43;-46.82;75683
+Cosmópolis;-22.64;-47.19;74662
+Amparo;-22.7;-46.76;73145
+Embu-Guaçu;-23.83;-46.81;70402
+Peruíbe;-24.31;-46.99;69697
+Fernandópolis;-20.28;-50.24;69680
+Lençóis Paulista;-22.59;-48.79;69533
+Mococa;-21.46;-47;69072
+Bertioga;-23.85;-46.13;66154
+Tupã;-21.93;-50.51;65615
+Itupeva;-23.15;-47.05;64330
+Penápolis;-21.42;-50.07;64098
+Batatais;-20.89;-47.58;63438
+Boituva;-23.28;-47.67;63310
+Nova Odessa;-22.77;-47.29;61716
+Monte Mor;-22.94;-47.31;61707
+Ibitinga;-21.75;-48.82;61150
+Mirassol;-20.81;-49.52;60768
+Jaguariúna;-22.7;-46.98;59921
+Mongaguá;-24.08;-46.62;58567
+Santa Isabel;-23.31;-46.22;58529
+Taquaritinga;-21.4;-48.5;57547
+Andradina;-20.89;-51.37;57245
+Capivari;-22.99;-47.5;56973
+Porto Ferreira;-21.85;-47.47;56848
+Registro;-24.48;-47.84;56463
+Artur Nogueira;-22.57;-47.17;56247
+Piedade;-23.71;-47.42;55731
+Olímpia;-20.73;-48.91;55477
+São José do Rio Pardo;-21.59;-46.88;55298
+Vargem Grande Paulista;-23.6;-47.02;54315
+Porto Feliz;-23.21;-47.52;53698
+São Joaquim da Barra;-20.58;-47.85;52737
+Campos do Jordão;-22.73;-45.59;52713
+Rio Grande da Serra;-23.74;-46.39;52009
+Pontal;-21.02;-48.03;51717
+Cabreúva;-23.3;-47.13;51130
+Monte Alto;-21.26;-48.49;51039
+Louveira;-23.08;-46.95;51007
+Itararé;-24.11;-49.34;50778
+Cerquilho;-23.16;-47.74;50631
+Jales;-20.26;-50.54;49291
+Pedreira;-22.74;-46.9;48992
+Tremembé;-22.95;-45.54;48228
+Santa Cruz do Rio Pardo;-22.89;-49.63;48207
+Mairinque;-23.54;-47.18;47723
+Pederneiras;-22.35;-48.77;47523
+Dracena;-21.48;-51.53;47287
+Capão Bonito;-24;-48.34;47098
+Salto de Pirapora;-23.64;-47.57;46285
+Paraguaçu Paulista;-22.41;-50.57;46180
+Serrana;-21.21;-47.59;46166
+Jardinópolis;-21.01;-47.76;45544
+Orlândia;-20.71;-47.88;44682
+Espírito Santo do Pinhal;-22.19;-46.74;44607
+Presidente Epitácio;-21.76;-52.11;44572
+Garça;-22.21;-49.65;44429
+Itápolis;-21.59;-48.81;43536
+Vargem Grande do Sul;-21.83;-46.89;43368
+Tietê;-23.1;-47.71;42946
+Ituverava;-20.33;-47.78;42259
+Novo Horizonte;-21.46;-49.22;41765
+Socorro;-22.59;-46.52;41690
+Américo Brasiliense;-21.72;-48.1;41545
+São Manuel;-22.73;-48.57;41287
+Guaíra;-20.31;-48.31;41283
+Promissão;-21.53;-49.85;41211
+Guariba;-21.36;-48.22;40857
+Pitangueiras;-21;-48.22;40430
+Presidente Venceslau;-21.87;-51.84;39648
+Iperó;-23.35;-47.68;38771
+José Bonifácio;-21.05;-49.68;37707
+Agudos;-22.46;-48.98;37582
+Aguaí;-22.05;-46.97;36981
+São Pedro;-22.54;-47.91;36298
+Rio das Pedras;-22.84;-47.6;36233
+Aparecida;-22.84;-45.22;36211
+Ilhabela;-23.77;-45.35;36194
+Barra Bonita;-22.49;-48.55;36125
+Cravinhos;-21.34;-47.72;35858
+Bariri;-22.07;-48.74;35844
+Ibaté;-21.95;-47.99;35830
+Araçoiaba da Serra;-23.5;-47.61;35389
+Adamantina;-21.68;-51.07;35153
+Santa Cruz das Palmeiras;-21.82;-47.24;35102
+Descalvado;-21.9;-47.61;34097
+Cachoeira Paulista;-22.66;-45;33827
+Morro Agudo;-20.73;-48.05;33598
+Barrinha;-21.19;-48.16;33537
+Biritiba-Mirim;-23.57;-46.03;33265
+Guararapes;-21.26;-50.64;33257
+Osvaldo Cruz;-21.79;-50.88;33118
+São Miguel Arcanjo;-23.87;-47.99;33071
+Santa Fé do Sul;-20.21;-50.92;32796
+Juquitiba;-23.93;-47.06;31844
+Cândido Mota;-22.74;-50.38;31410
+Jarinu;-23.1;-46.72;31173
+Iguape;-24.7;-47.55;31117
+Igarapava;-20.03;-47.74;30791
+Casa Branca;-21.77;-47.08;30655
+Guararema;-23.41;-46.03;30465
+Piraju;-23.19;-49.38;29930
+Mirandópolis;-21.13;-51.1;29844
+Rancharia;-22.22;-50.89;29743
+Serra Negra;-22.61;-46.7;29669
+Pilar do Sul;-23.81;-47.71;29612
+Laranjal Paulista;-23.04;-47.83;29047
+Conchal;-22.32;-47.17;28491
+Cajati;-24.73;-48.12;28441
+Pirapozinho;-22.27;-51.5;27974
+Santa Gertrudes;-22.45;-47.52;27850
+Dois Córregos;-22.36;-48.38;27704
+Santa Rita do Passa Quatro;-21.7;-47.47;27641
+Itaí;-23.41;-49.09;27632
+Piracaia;-23.05;-46.35;27617
+Valparaíso;-21.22;-50.86;27154
+Santa Rosa de Viterbo;-21.47;-47.36;26960
+Ilha Solteira;-20.43;-51.34;26886
+Martinópolis;-22.14;-51.17;26791
+Cajuru;-21.27;-47.3;26613
+Bom Jesus dos Perdões;-23.13;-46.46;26506
+Tanabi;-20.62;-49.64;26231
+Pirajuí;-21.99;-49.45;25939
+Angatuba;-23.48;-48.41;25724
+Pereira Barreto;-20.63;-51.1;25685
+Monte Aprazível;-20.77;-49.71;25651
+Brodowski;-20.99;-47.65;25605
+Potim;-22.84;-45.25;25603
+Cordeirópolis;-22.48;-47.45;25116
+Álvares Machado;-22.07;-51.47;25078
+Iracemápolis;-22.58;-47.51;24982
+Brotas;-22.28;-48.12;24862
+Igaraçu do Tietê;-22.5;-48.55;24821
+Apiaí;-24.5;-48.84;24081
+Santo Antônio de Posse;-22.6;-46.91;23742
+Teodoro Sampaio;-22.53;-52.16;23395
+Araçariguama;-23.43;-47.06;23343
+Taquarituba;-23.53;-49.24;23292
+Tambaú;-21.7;-47.27;23255
+Miguelópolis;-20.17;-48.03;22480
+Pompéia;-22.1;-50.17;22326
+Palmital;-22.78;-50.21;22322
+Pradópolis;-21.35;-48.06;22239
+Guapiaçu;-20.79;-49.22;22087
+Lucélia;-21.71;-51.01;22022
+Nova Granada;-20.53;-49.31;21871
+Engenheiro Coelho;-22.48;-47.21;21712
+Castilho;-20.87;-51.48;21521
+Guará;-20.42;-47.82;21394
+Cunha;-23.07;-44.95;21373
+Capela do Alto;-23.47;-47.73;21257
+Itatinga;-23.1;-48.61;21139
+Junqueirópolis;-21.51;-51.43;20978
+Bastos;-21.92;-50.73;20952
+Santo Anastácio;-21.97;-51.65;20855
+Paranapanema;-23.38;-48.72;20588
+Regente Feijó;-22.22;-51.3;20523
+Cerqueira César;-23.03;-49.16;20391
+Buri;-23.79;-48.59;20050
+Pariquera-Açu;-24.71;-47.88;19797
+Miracatu;-24.28;-47.45;19511
+Pirapora do Bom Jesus;-23.39;-47;19453
+Guareí;-23.37;-48.18;19244
+Viradouro;-20.87;-48.29;19133
+Caconde;-21.52;-46.64;19031
+Monte Azul Paulista;-20.9;-48.64;18928
+Águas de Lindóia;-22.47;-46.63;18908
+Alumínio;-23.53;-47.26;18903
+Nazaré Paulista;-23.18;-46.39;18866
+Juquiá;-24.32;-47.63;18627
+Itirapina;-22.25;-47.82;18610
+Colina;-20.71;-48.54;18601
+Cesário Lange;-23.22;-47.95;18595
+Mirante do Paranapanema;-22.29;-51.9;18415
+Paraibuna;-23.38;-45.66;18302
+Conchas;-23.01;-48.01;18138
+Elias Fausto;-23.04;-47.37;18095
+Bady Bassitt;-20.91;-49.44;18013
+Cafelândia;-21.8;-49.61;17917
+Jacupiranga;-24.69;-48;17911
+Severínia;-20.8;-48.8;17820
+Itariri;-24.28;-47.17;17754
+Potirendaba;-21.04;-49.37;17668
+Charqueada;-22.51;-47.77;17539
+Buritama;-21.06;-50.14;17414
+Itaberá;-23.86;-49.13;17405
+Pindorama;-21.18;-48.9;17378
+Salesópolis;-23.53;-45.84;17363
+Macatuba;-22.5;-48.71;17263
+Guapiara;-24.18;-48.53;16896
+Pedregulho;-20.25;-47.47;16876
+Ipuã;-20.43;-48.01;16794
+Tabatinga;-21.71;-48.68;16787
+Borborema;-21.62;-49.07;16278
+Altinópolis;-21.02;-47.37;16221
+São Lourenço da Serra;-23.85;-46.94;16127
+Fartura;-23.38;-49.5;16102
+Ribeirão Branco;-24.22;-48.76;15984
+Panorama;-21.35;-51.86;15944
+Rosana;-22.57;-53.05;15929
+Tupi Paulista;-21.38;-51.57;15670
+Santa Adélia;-21.24;-48.8;15639
+Luís Antônio;-21.55;-47.7;15628
+Holambra;-22.63;-47.05;15605
+Eldorado;-24.52;-48.1;15592
+Pinhalzinho;-22.77;-46.59;15564
+São Simão;-21.47;-47.55;15446
+Tarumã;-22.74;-50.57;15361
+Itajobi;-21.31;-49.05;15331
+Auriflama;-20.68;-50.55;15316
+Serra Azul;-21.31;-47.56;15292
+Itaporanga;-23.7;-49.49;15197
+Ipaussu;-23.05;-49.62;15165
+Boa Esperança do Sul;-21.99;-48.39;15111
+Patrocínio Paulista;-20.63;-47.28;14941
+Flórida Paulista;-21.61;-51.17;14936
+Santa Branca;-23.39;-45.88;14925
+Taguaí;-23.45;-49.4;14415
+Pacaembu;-21.56;-51.26;14326
+Quatá;-22.24;-50.69;14309
+Itapuí;-22.23;-48.71;14297
+Maracaí;-22.61;-50.66;14069
+Avanhandava;-21.46;-49.95;14063
+Urupês;-21.2;-49.29;13965
+Morungaba;-22.87;-46.79;13936
+Piratininga;-22.41;-49.13;13890
+Queluz;-22.53;-44.77;13788
+Valentim Gentil;-20.42;-50.08;13732
+Palmares Paulista;-21.08;-48.8;13691
+Piquete;-22.61;-45.17;13495
+Joanópolis;-22.93;-46.27;13453
+Ribeirão Bonito;-22.06;-48.17;13376
+Palestina;-20.38;-49.43;13285
+Mineiros do Tietê;-22.4;-48.45;13023
+Presidente Bernardes;-22;-51.55;12943
+Tapiratiba;-21.46;-46.74;12940
+Riolândia;-19.98;-49.68;12856
+Sete Barras;-24.38;-47.92;12731
+Ibirá;-21.07;-49.24;12639
+Lavínia;-21.16;-51.04;12581
+Bocaina;-22.13;-48.51;12571
+Tabapuã;-20.96;-49.03;12561
+Cananéia;-25.01;-47.92;12542
+Duartina;-22.41;-49.4;12421
+Chavantes;-23.03;-49.7;12418
+Guaiçara;-21.62;-49.79;12416
+Cardoso;-20.08;-49.91;12371
+São Sebastião da Grama;-21.71;-46.82;12137
+Bofete;-23.1;-48.25;12107
+Sales Oliveira;-20.77;-47.83;12103
+Iacanga;-21.88;-49.02;12002
+Nhandeara;-20.69;-50.03;11575
+Ilha Comprida;-24.74;-47.54;11552
+Pirangi;-21.09;-48.65;11524
+Nova Europa;-21.77;-48.56;11519
+Pedro de Toledo;-24.27;-47.23;11507
+Estiva Gerbi;-22.27;-46.94;11507
+Getulina;-21.79;-49.92;11485
+Guaraci;-20.49;-48.94;11382
+Areiópolis;-22.66;-48.66;11186
+Bernardino de Campos;-23.01;-49.47;11168
+Bananal;-22.68;-44.32;11039
+Divinolândia;-21.66;-46.73;11027
+Parapuã;-21.78;-50.79;10934
+São Bento do Sapucaí;-22.68;-45.73;10907
+Roseira;-22.89;-45.3;10888
+General Salgado;-20.64;-50.36;10855
+Vargem;-22.88;-46.41;10842
+Rincão;-21.58;-48.07;10824
+Vera Cruz;-22.21;-49.81;10804
+Ouroeste;-20;-50.37;10712
+São Luís do Paraitinga;-23.22;-45.31;10693
+Cajobi;-20.87;-48.8;10649
+Sarapuí;-23.64;-47.82;10493
+Porangaba;-23.17;-48.12;10205
+Uchoa;-20.95;-49.17;10191
+Dumont;-21.23;-47.97;10174
+Torrinha;-22.42;-48.16;10100
+Reginópolis;-21.88;-49.22;10047
+Manduri;-23;-49.32;9972
+Nova Campina;-24.12;-48.9;9962
+Rinópolis;-21.72;-50.72;9940
+Ariranha;-21.18;-48.78;9851
+Iaras;-22.87;-49.16;9786
+Herculândia;-22;-50.38;9649
+Igaratá;-23.2;-46.15;9631
+Terra Roxa;-20.78;-48.33;9502
+Cedral;-20.9;-49.26;9452
+Salto Grande;-22.89;-49.98;9396
+Euclides da Cunha Paulista;-22.56;-52.59;9280
+Bálsamo;-20.73;-49.58;9209
+Palmeira d`Oeste;-20.41;-50.76;9173
+Vista Alegre do Alto;-21.17;-48.62;9163
+Rafard;-23.01;-47.52;9126
+Urânia;-20.24;-50.64;9125
+Dobrada;-21.51;-48.39;9088
+São José da Bela Vista;-20.59;-47.63;8991
+Paulo de Faria;-20.03;-49.38;8973
+Neves Paulista;-20.84;-49.63;8917
+Clementina;-21.55;-50.44;8894
+Santa Lúcia;-21.68;-48.08;8889
+Dourado;-22.1;-48.31;8883
+Pereiras;-23.07;-47.97;8875
+Cristais Paulista;-20.39;-47.41;8803
+Ouro Verde;-21.48;-51.7;8676
+Arealva;-22.02;-48.91;8665
+Santo Antônio do Aracanguá;-20.93;-50.49;8541
+Saltinho;-22.84;-47.67;8498
+Estrela d`Oeste;-20.28;-50.4;8420
+Icém;-20.34;-49.19;8363
+Irapuru;-21.57;-51.34;8356
+Águas da Prata;-21.93;-46.71;8262
+Guaraçaí;-21.02;-51.2;8258
+Iepê;-22.66;-51.07;8228
+Lindóia;-22.52;-46.65;8201
+Bilac;-21.4;-50.47;8197
+Monte Alegre do Sul;-22.68;-46.68;8181
+Macaubal;-20.8;-49.96;8174
+Irapuã;-21.27;-49.4;8101
+Ibirarema;-22.81;-50.07;7926
+Catiguá;-21.04;-49.05;7905
+Itobi;-21.73;-46.97;7862
+Ipeúna;-22.43;-47.71;7824
+Restinga;-20.6;-47.48;7762
+Guatapará;-21.49;-48.03;7760
+Sud Mennucci;-20.69;-50.92;7738
+Tapiraí;-23.96;-47.5;7725
+São Pedro do Turvo;-22.74;-49.74;7724
+Ribeirão Grande;-24.09;-48.36;7686
+Tarabai;-22.3;-51.55;7609
+Barra do Turvo;-24.75;-48.5;7606
+Paulicéia;-21.31;-51.83;7540
+Barbosa;-21.26;-49.94;7532
+Nuporanga;-20.72;-47.74;7522
+Lavrinhas;-22.57;-44.9;7361
+Jaci;-20.88;-49.56;7322
+Orindiúva;-20.18;-49.35;7318
+Cosmorama;-20.47;-49.77;7289
+Nova Aliança;-21.01;-49.49;7161
+Tuiuti;-22.81;-46.69;7058
+Santo Antônio da Alegria;-21.08;-47.15;7024
+Jaborandi;-20.68;-48.41;6963
+Anhembi;-22.78;-48.12;6911
+Santo Antônio do Pinhal;-22.82;-45.66;6843
+Jambeiro;-23.25;-45.68;6828
+Quintana;-22.07;-50.3;6736
+Guarantã;-21.89;-49.59;6685
+Natividade da Serra;-23.37;-45.44;6624
+Itirapuã;-20.64;-47.21;6587
+Pardinho;-23.08;-48.37;6579
+Oriente;-22.15;-50.09;6569
+Paraíso;-21.01;-48.77;6536
+Ubarana;-21.16;-49.71;6488
+Sales;-21.34;-49.48;6481
+Gália;-22.29;-49.55;6419
+Silveiras;-22.66;-44.85;6375
+Arandu;-23.13;-49.05;6373
+Taciba;-22.38;-51.28;6371
+Taiaçu;-21.14;-48.51;6346
+Santa Maria da Serra;-22.56;-48.16;6298
+Iacri;-21.85;-50.68;6269
+Alambari;-23.55;-47.89;6231
+Colômbia;-20.17;-48.68;6223
+Coroados;-21.35;-50.28;6197
+Poloni;-20.78;-49.82;6166
+Águas de Santa Bárbara;-22.88;-49.23;6142
+Balbinos;-21.89;-49.35;6127
+Pedra Bela;-22.79;-46.44;6127
+Piacatu;-21.59;-50.59;6093
+Campina do Monte Alegre;-23.59;-48.47;6088
+Novais;-20.99;-48.91;6057
+Marabá Paulista;-22.1;-51.96;6039
+Santa Albertina;-20.03;-50.72;6036
+Echaporã;-22.42;-50.2;6026
+Caiuá;-21.83;-51.99;6017
+Américo de Campos;-20.29;-49.73;5993
+Taquarivaí;-23.92;-48.69;5968
+Santo Antônio do Jardim;-22.11;-46.68;5926
+Luiziânia;-21.67;-50.32;5918
+Três Fronteiras;-20.23;-50.88;5856
+Guaimbê;-21.9;-49.89;5806
+Fernando Prestes;-21.26;-48.68;5805
+Braúna;-21.49;-50.31;5795
+Barra do Chapéu;-24.47;-49.02;5794
+Aramina;-20.09;-47.78;5689
+Mendonça;-21.16;-49.58;5638
+Sabino;-21.45;-49.57;5638
+Santa Ernestina;-21.46;-48.39;5577
+Taiúva;-21.12;-48.45;5562
+Ipiguá;-20.65;-49.38;5557
+Avaí;-22.14;-49.33;5467
+Nipoã;-20.91;-49.77;5381
+Salmourão;-21.62;-50.86;5372
+Pratânia;-22.8;-48.66;5371
+Planalto;-21.03;-49.92;5370
+Canitar;-23;-49.78;5365
+Riversul;-23.82;-49.42;5364
+Guzolândia;-20.64;-50.66;5346
+Álvaro de Carvalho;-22.08;-49.71;5320
+Canas;-22.7;-45.05;5268
+Analândia;-22.12;-47.66;5115
+Campos Novos Paulista;-22.6;-50;5028
+Itapura;-20.64;-51.5;4994
+Mirassolândia;-20.61;-49.46;4966
+Narandiba;-22.4;-51.52;4950
+Espírito Santo do Turvo;-22.69;-49.43;4926
+Boracéia;-22.19;-48.77;4913
+Gastão Vidigal;-20.79;-50.18;4911
+Lagoinha;-23.09;-45.18;4882
+Indiana;-22.17;-51.25;4873
+Santópolis do Aguapeí;-21.63;-50.5;4856
+Glicério;-21.38;-50.21;4842
+Gavião Peixoto;-21.83;-48.49;4841
+Motuca;-21.5;-48.15;4831
+Ubirajara;-22.52;-49.66;4828
+Júlio Mesquita;-22;-49.78;4824
+Ribeirão Corrente;-20.45;-47.59;4786
+Monteiro Lobato;-22.95;-45.84;4739
+Pontalinda;-20.44;-50.52;4719
+Lupércio;-22.41;-49.81;4608
+Coronel Macedo;-23.63;-49.31;4591
+Santa Cruz da Conceição;-22.13;-47.45;4584
+João Ramalho;-22.25;-50.76;4577
+Buritizal;-20.19;-47.7;4547
+Ribeirão do Sul;-22.78;-49.93;4537
+Murutinga do Sul;-20.99;-51.27;4525
+Onda Verde;-20.61;-49.29;4462
+Tejupá;-23.34;-49.37;4452
+Sandovalina;-22.45;-51.76;4405
+Pracinha;-21.85;-51.08;4327
+Itapirapuã Paulista;-24.57;-49.16;4294
+Ocauçu;-22.43;-49.92;4294
+Cabrália Paulista;-22.45;-49.33;4222
+Nova Luzitânia;-20.85;-50.26;4217
+Altair;-20.52;-49.05;4211
+Alfredo Marcondes;-21.95;-51.41;4201
+Caiabu;-22.01;-51.23;4195
+Iporanga;-24.58;-48.59;4180
+Anhumas;-22.29;-51.38;4172
+Monte Castelo;-21.29;-51.56;4166
+São José do Barreiro;-22.64;-44.57;4141
+Populina;-19.95;-50.53;4136
+Nova Independência;-21.1;-51.49;4135
+Aparecida d`Oeste;-20.44;-50.88;4122
+Paranapuã;-20.1;-50.58;4112
+Mariápolis;-21.79;-51.18;4098
+Alto Alegre;-21.58;-50.16;4078
+Corumbataí;-22.21;-47.62;4072
+Presidente Alves;-22.1;-49.43;4067
+Suzanápolis;-20.5;-51.02;4063
+Inúbia Paulista;-21.77;-50.96;4045
+Bom Sucesso de Itararé;-24.31;-49.14;4013
+Itaju;-21.98;-48.8;3937
+Areias;-22.57;-44.69;3906
+Quadra;-23.29;-48.05;3902
+Indiaporã;-19.97;-50.29;3876
+Redenção da Serra;-23.26;-45.53;3827
+Meridiano;-20.35;-50.17;3813
+Elisiário;-21.16;-49.11;3742
+Piquerobi;-21.86;-51.72;3706
+Macedônia;-20.14;-50.19;3686
+Rifaina;-20.08;-47.42;3651
+Sarutaiá;-23.27;-49.47;3623
+Álvares Florence;-20.32;-49.91;3616
+Platina;-22.63;-50.2;3606
+Sebastianópolis do Sul;-20.65;-49.92;3595
+Águas de São Pedro;-22.59;-47.87;3588
+Adolfo;-21.23;-49.64;3545
+Barão de Antonina;-23.62;-49.56;3525
+Mombuca;-22.92;-47.56;3523
+Queiroz;-21.79;-50.24;3513
+Jumirim;-23.08;-47.78;3467
+Pongaí;-21.73;-49.36;3385
+Itaóca;-24.63;-48.84;3332
+Ribeira;-24.65;-49;3320
+Alvinlândia;-22.44;-49.76;3251
+Emilianópolis;-21.83;-51.48;3238
+Nantes;-22.62;-51.23;3215
+Rubiácea;-21.3;-50.72;3195
+Rubinéia;-20.17;-51;3191
+Santo Expedito;-21.85;-51.39;3159
+Jeriquara;-20.31;-47.58;3143
+Mira Estrela;-19.97;-50.13;3125
+Pedrinhas Paulista;-22.81;-50.79;3109
+Marapoama;-21.25;-49.12;3097
+Magda;-20.64;-50.22;3086
+Bento de Abreu;-21.27;-50.81;3028
+Santa Mercedes;-21.35;-51.75;2947
+Brejo Alegre;-21.16;-50.18;2911
+Floreal;-20.67;-50.14;2884
+Taquaral;-21.07;-48.4;2815
+São Francisco;-20.35;-50.69;2813
+Cândido Rodrigues;-21.32;-48.63;2805
+Zacarias;-21.05;-50.05;2784
+Gabriel Monteiro;-21.53;-50.55;2776
+Estrela do Norte;-22.48;-51.65;2774
+Borebi;-22.56;-48.97;2713
+Timburi;-23.2;-49.6;2647
+Florínia;-22.9;-50.73;2631
+Lutécia;-22.34;-50.39;2623
+Oscar Bressane;-22.31;-50.28;2603
+Pontes Gestal;-20.16;-49.7;2576
+São João das Duas Pontes;-20.38;-50.37;2555
+Cássia dos Coqueiros;-21.28;-47.16;2488
+Santa Rita d`Oeste;-20.14;-50.83;2476
+Pedranópolis;-20.24;-50.11;2468
+Arapeí;-22.67;-44.44;2452
+Óleo;-22.94;-49.34;2447
+Embaúba;-20.98;-48.83;2446
+Torre de Pedra;-23.24;-48.19;2432
+Sagres;-21.88;-50.95;2427
+Lucianópolis;-22.43;-49.52;2412
+Nova Guataporanga;-21.33;-51.64;2333
+Lourdes;-20.96;-50.22;2311
+Monções;-20.85;-50.09;2274
+Ribeirão dos Índios;-21.83;-51.6;2222
+Parisi;-20.3;-50.01;2177
+Santa Cruz da Esperança;-21.29;-47.43;2166
+Santa Clara d`Oeste;-20.08;-50.95;2111
+Dolcinópolis;-20.12;-50.51;2108
+Marinópolis;-20.44;-50.82;2101
+São João do Pau d`Alho;-21.26;-51.66;2095
+Turiúba;-20.93;-50.1;2024
+Cruzália;-22.67;-50.79;2021
+Guarani d`Oeste;-20.07;-50.33;1996
+São João de Iracema;-20.51;-50.35;1942
+Mesópolis;-19.96;-50.63;1903
+União Paulista;-20.88;-49.89;1886
+Vitória Brasil;-20.19;-50.48;1852
+Paulistânia;-22.57;-49.4;1835
+Nova Canaã Paulista;-20.38;-50.94;1824
+Aspásia;-20.15;-50.73;1815
+Dirce Reis;-20.46;-50.6;1805
+Arco-Íris;-21.77;-50.46;1755
+Trabiju;-22.04;-48.33;1752
+Fernão;-22.35;-49.52;1739
+Turmalina;-20.05;-50.47;1667
+Santa Salete;-20.24;-50.68;1558
+Santana da Ponte Pensa;-20.25;-50.79;1448
+Flora Rica;-21.67;-51.38;1397
+Nova Castilho;-20.76;-50.34;1290
+Uru;-21.78;-49.28;1142
+Borá;-22.27;-50.53;839
