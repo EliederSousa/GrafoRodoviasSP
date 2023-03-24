@@ -1,8 +1,11 @@
 # GrafoRodoviasSP
 Projeto da disciplina de Teoria dos Grafos, 2023  
+
 ---
+
 Elieder Damasceno Sousa  
 José Eduardo Bernardino Jorge  
+
 ---
 
 Problemas de menor caminho são recorrentes em Teoria dos Grafos. Nossa proposta é a de simular a malha rodoviária de São Paulo utilizando um grafo não direcionado, onde os vértices são as cidades e as arestas os caminhos (em linha reta) entre as mesmas. Assim, podemos verificar a distância entre cidades além de um possível percurso entre elas. Segundo dados do IBGE [1] e do Governo Federal [2], há um total de 645 cidades no estado de São Paulo além de um número não contabilizado de arestas. Isto mostra a grandeza da cidade, além do desafio a ser enfrentado à frente. Portanto, temos como objetivo: 
