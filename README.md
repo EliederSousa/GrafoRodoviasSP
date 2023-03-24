@@ -8,7 +8,7 @@ José Eduardo Bernardino Jorge
 
 ---
 
-Problemas de menor caminho são recorrentes em Teoria dos Grafos. Nossa proposta é a de simular a malha rodoviária de São Paulo utilizando um grafo não direcionado, onde os vértices são as cidades e as arestas os caminhos (em linha reta) entre as mesmas. Assim, podemos verificar a distância entre cidades além de um possível percurso entre elas. Segundo dados do IBGE e do Governo Federal, há um total de 645 cidades no estado de São Paulo além de um número não contabilizado de arestas. Isto mostra a grandeza da cidade, além do desafio a ser enfrentado à frente. Portanto, temos como objetivo: 
+Problemas de menor caminho são recorrentes em Teoria dos Grafos. Nossa proposta é a de simular a malha rodoviária de São Paulo utilizando um grafo não direcionado, onde os vértices são as cidades e as arestas os caminhos (em linha reta) entre as mesmas. Assim, podemos verificar a distância entre cidades além de um possível percurso entre elas. Segundo dados do IBGE e do Governo Federal, há um total de 645 cidades no estado de São Paulo além de um número não contabilizado de interligações entre as cidades. Isto mostra a grandeza da cidade, além do desafio a ser enfrentado à frente. Portanto, temos como objetivo: 
 
 * Criar um banco de dados com as cidades paulistas e suas informações básicas (nome, posição geográfica, população);  
 * Usar o banco de dados para criar os vértices e arestas de um grafo não direcionado;  
