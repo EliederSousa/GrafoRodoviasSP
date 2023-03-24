@@ -1,6 +1,9 @@
 # GrafoRodoviasSP
 Projeto da disciplina de Teoria dos Grafos, 2023
 
+Elieder Damasceno Sousa
+José Eduardo Bernardino Jorge
+
 Problemas de menor caminho são recorrentes em Teoria dos Grafos. Nossa proposta é a de simular a malha rodoviária de São Paulo utilizando um grafo não direcionado, onde os vértices são as cidades e as arestas os caminhos (em linha reta) entre as mesmas. Assim, podemos verificar a distância entre cidades além de um possível percurso entre elas. Segundo dados do IBGE [1] e do Governo Federal [2], há um total de 645 cidades no estado de São Paulo além de um número não contabilizado de arestas. Isto mostra a grandeza da cidade, além do desafio a ser enfrentado à frente. Portanto, temos como objetivo: 
 
 •	Criar um banco de dados com as cidades paulistas e suas informações básicas (nome, posição geográfica, população);
@@ -22,4 +25,4 @@ _Distância calculada entre São Paulo e Rosana: 740km. Distância real: 746 km.
   
 
 ![image](https://user-images.githubusercontent.com/16262291/227611405-960dc176-9b8e-4bb0-85e1-0237618fa406.png)  
-_Menu do sistema__  
+_Menu do sistema_  
