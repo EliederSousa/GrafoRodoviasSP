@@ -16,12 +16,10 @@ Problemas de menor caminho são recorrentes em Teoria dos Grafos. Nossa proposta
 _Grafo final visualizado no GraphOnline_  
 
   
-![image](https://user-images.githubusercontent.com/16262291/227611579-9e70deab-c620-465f-9387-1029c3046c47.png)
+![image](https://user-images.githubusercontent.com/16262291/227611579-9e70deab-c620-465f-9387-1029c3046c47.png)  
 _Distância calculada entre São Paulo e Rosana: 740km. Distância real: 746 km. Fonte: https://www.rotamapas.com.br/distancia-entre-sao-paulo-e-rosana_  
   
   
 
-![image](https://user-images.githubusercontent.com/16262291/227611405-960dc176-9b8e-4bb0-85e1-0237618fa406.png)
+![image](https://user-images.githubusercontent.com/16262291/227611405-960dc176-9b8e-4bb0-85e1-0237618fa406.png)  
 _Menu do sistema__  
-
-
