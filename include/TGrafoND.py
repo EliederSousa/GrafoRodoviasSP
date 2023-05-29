@@ -6,6 +6,7 @@ Elieder Damasceno Sousa         32093659
 
 """
 import math
+from include.fila import FilaCircular
 
 # Define uma constante que guarda o maior valor suportado pela linguagem.
 # Arestas que não existem terão este valor na matriz de adjacência.
@@ -22,6 +23,8 @@ class TGrafoND:
     # matriz de adjacência
     self.adj = [[INFINITO for i in range(n)] for j in range(n)]
     self.nomes = []
+    self.populacoes = []
+    self.posicoes = []
 
 
   # Calcula qual é o grau de entrada do vértice
@@ -45,6 +48,8 @@ class TGrafoND:
     try:
       index = self.nomes.index(v)
       del self.nomes[index]
+      del self.populacoes[index]
+      del self.posicoes[index]
       # deleta as arestas relacionadas
       for w in range(self.n):
         if self.adj[w][index] != INFINITO:
@@ -58,9 +63,12 @@ class TGrafoND:
       return False
 
   # Insere um vértice no grafo
-  def insereV(self, v):
+  def insereV(self, nome, populacao, latitude, longitude):
     if self.n < TAM_MAX_DEFAULT:
-      self.nomes.append(v.upper())
+      self.nomes.append(nome.upper())
+      self.populacoes.append(populacao)
+      self.posicoes.append([latitude, longitude])
+      
       for w in range(len(self.adj)):
         self.adj[w].append(INFINITO)
 
@@ -108,6 +116,78 @@ class TGrafoND:
       return True
     except ValueError:
       return False
+
+  # Retorna uma lista com os vértices adjacentes a V
+  def adjacencias(self, v):
+    edges = []
+    for index, edge in enumerate(self.adj[v]):
+      if edge != INFINITO:
+        edges.append(index)
+    return edges
+
+  # Breadth-first search  
+  def percursoLargura( self, vInicial ):
+    visitados = []
+    me_visite = FilaCircular()
+    visitados.append( vInicial )
+    me_visite.enqueue( vInicial )
+    while not me_visite.isEmpty():
+      nova_casa = me_visite.dequeue()
+      vizinhos_nao_visitados = [x for x in self.adjacencias( nova_casa ) if x not in visitados]
+      while len( vizinhos_nao_visitados ) > 0:
+        me_visite.enqueue( vizinhos_nao_visitados[0] )
+        visitados.append( vizinhos_nao_visitados[0] )
+        vizinhos_nao_visitados = [x for x in self.adjacencias( nova_casa ) if x not in visitados]
+    return len(visitados) == self.n
+
+  
+  # Algoritmo de Dijsktra
+  def dijkstra(self, vInicial, vFinal):
+    try:
+      indexV = self.nomes.index(vInicial)
+      indexW = self.nomes.index(vFinal)
+    except ValueError:
+      return False
+      
+    distancias = [INFINITO] * self.n
+    distancias[indexV] = 0
+    A = [w for w in range(0, self.n)]
+    S = [indexV]
+    F = []
+    k = 0
+    rot = [-1 for w in range(0, self.n)]
+
+    while len(A) > 0:
+      k += 1
+      distancias_de_A = []
+      indexes = []
+      for w in A:
+        distancias_de_A.append(distancias[w])
+        indexes.append(w)
+      r = indexes[distancias_de_A.index(min(distancias_de_A))]
+      F.append(r)
+      A.remove(r)
+      S = list(set(A) & set(self.adjacencias(r)))
+      for i in S:
+        p = min(distancias[i], distancias[r] + self.adj[r][i])
+        if p < distancias[i]:
+          distancias[i] = p
+          rot[i] = r
+
+    print("\n================================\n")
+    print("A melhor rota entre {} e {} tem {:.1f}Km:\n".format(vInicial, vFinal, distancias[indexW]))
+    rotas = []
+    while indexW != indexV:
+      rotas.append([self.nomes[indexW], distancias[indexW]])
+      indexW = rot[indexW]
+
+    print(self.nomes[indexV], end="")
+    temp_dist = 0
+    for w in range(len(rotas)-1, -1, -1):
+      print( " {:.1f}Km → {}".format(rotas[w][1] - temp_dist, rotas[w][0]), end="" )
+      temp_dist = rotas[w][1]
+    print("\n\n================================\n")
+    
 
   # Apresenta o Grafo contendo número de vértices, arestas (apenas as que existem) e a matriz de adjacência obtida
   def show(self):

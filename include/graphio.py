@@ -22,7 +22,10 @@ class GraphIO:
     
     for w in range( len(vertices) ):               # Lista de vértices
       # unidecode() remove todos os acentos das letras. 
-      grafoout += str(w) + " " + unidecode(vertices[w].name.upper()) + "\n"
+      grafoout += str(w) + " " + unidecode(vertices[w].name.upper()) + " "
+      grafoout += str(vertices[w].population) + " "
+      grafoout += str(vertices[w].position.x) + " " + str(vertices[w].position.y)
+      grafoout += "\n"
     
     grafoout += str(totalEdges) + "\n"             # Total de arestas
   
