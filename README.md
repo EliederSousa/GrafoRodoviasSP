@@ -28,5 +28,5 @@ _Distância calculada entre São Paulo e Rosana: 740km. Distância real: 746 km.
   
   
 
-![image](https://user-images.githubusercontent.com/16262291/227611405-960dc176-9b8e-4bb0-85e1-0237618fa406.png)  
+![image](https://github.com/EliederSousa/GrafoRodoviasSP/assets/16262291/07ae00c8-62b8-44fb-ba5f-3d95d281bced)  
 _Menu do sistema_  
